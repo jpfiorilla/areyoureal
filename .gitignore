@@ -9,3 +9,4 @@ node_modules
 
 src/modules/guardiankey.js
 src/modules/nytkey.js
+src/modules/wordskey.js
