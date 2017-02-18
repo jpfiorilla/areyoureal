@@ -1,21 +1,22 @@
 {
-  "name": "spa-github-pages",
-  "version": "3.0.0",
-  "description": "Single Page Apps for GitHub Pages",
+  "name": "are-you-real",
+  "version": "1.0.0",
+  "description": "News game",
   "scripts": {
     "start": "webpack-dev-server -d --inline --host 0.0.0.0 --history-api-fallback --progress"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rafrex/spa-github-pages.git"
+    "url": ""
   },
-  "author": "Rafael Pedicini <code@rafrex.com>",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "react": "^15.4.1",
     "react-dom": "^15.4.1",
     "react-interactive": "^0.4.0",
-    "react-router": "^3.0.0"
+    "react-router": "^3.0.0",
+    "request-promise": "^4.1.1"
   },
   "devDependencies": {
     "babel-core": "^6.21.0",
